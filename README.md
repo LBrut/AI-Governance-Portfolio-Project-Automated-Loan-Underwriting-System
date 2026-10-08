@@ -16,7 +16,7 @@ My final recommendation was:
 
 > **Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.**
 
-"The EU AI Act Assessment" src="<img width="1433" height="753" alt="Screenshot 2026-10-07 at 19 54 33" src="https://github.com/user-attachments/assets/fc066bbb-d2dc-464d-8888-3f4533a5459a" />" />
+"The EU AI Act Assessment" src="<img width="1433" height="753" alt="Screenshot 2026-10-07 at 19 54 33" src="https://github.com/user-attachments/assets/fc066bbb-d2dc-464d-8888-3f4533a5459a" />"
 
 > **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
 
