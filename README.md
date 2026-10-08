@@ -98,7 +98,8 @@ My answer:
 
 ### 3. Dataset Record
 
-<img width="827" height="817" alt="4  Datasets" src="https://github.com/user-attachments/assets/ac514020-1a62-43f5-8b8a-9860a1a03080" />
+<img width="676" height="657" alt="Screenshot 2026-10-06 at 22 00 58" src="https://github.com/user-attachments/assets/b8fb53d2-25fb-47a9-92ff-3cf8aa3a4f56" />
+
 
 > **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
 
@@ -108,7 +109,8 @@ My answer:
 
 ### 4. AI Risk Register
 
-<img width="1522" height="865" alt="5  Risk register" src="https://github.com/user-attachments/assets/649f77f7-4d6d-4201-9219-7314a65b3954" /> 
+<img width="1432" height="751" alt="Screenshot 2026-10-07 at 22 03 48" src="https://github.com/user-attachments/assets/310db58d-3257-49cc-a222-5e8a686f5f63" />
+
 
 > **Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
 
@@ -129,7 +131,8 @@ My answer:
 
 ### 5. Vendor Record
 
-<img width="799" height="714" alt="7  Vendor List " src="https://github.com/user-attachments/assets/0ffb06b0-6843-47c2-8dda-c6b992d03e3e" />
+<img width="652" height="635" alt="Screenshot 2026-10-06 at 23 50 05" src="https://github.com/user-attachments/assets/d3875eb2-5fb5-4c6b-914c-b5ffe301d532" />
+
 
 > **Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
 
@@ -139,8 +142,12 @@ My answer:
 
 ### 6. Framework Assessments
 
-<img width="1505" height="835" alt="ISO 42001 Part 1" src="https://github.com/user-attachments/assets/dc5ac0f7-da16-4fe9-ac50-e86fc03be3b5" /> 
-<img width="1527" height="941" alt="ISO 42001 Part 2" src="https://github.com/user-attachments/assets/a6a6660a-df92-499f-9d10-b0a29d8da48b" />
+<img width="1435" height="755" alt="Screenshot 2026-10-07 at 18 48 36" src="https://github.com/user-attachments/assets/8efa0ea3-a0bb-4481-b9a4-460388477765" />
+
+<img width="1434" height="754" alt="Screenshot 2026-10-07 at 18 48 45" src="https://github.com/user-attachments/assets/c9934241-67e8-427b-bd27-cf1f16fe5099" />
+
+<img width="1437" height="752" alt="Screenshot 2026-10-07 at 18 48 54" src="https://github.com/user-attachments/assets/4a347642-542c-48dd-bb7c-210ba4d4654b" />
+
 
 > **Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
 
