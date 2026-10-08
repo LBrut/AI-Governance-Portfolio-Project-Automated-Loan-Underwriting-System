@@ -1,3 +1,4 @@
+<img width="795" height="536" alt="Screenshot 2026-10-06 at 21 34 34" src="https://github.com/user-attachments/assets/257b0b0f-f395-422f-8706-c6341d3646bd" />
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System - Lanchel Brutus
 
 ## Executive Summary
