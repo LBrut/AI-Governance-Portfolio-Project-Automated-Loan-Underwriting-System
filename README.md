@@ -157,7 +157,10 @@ My answer:
 
 ### 7. Fundamental Rights Impact Assessment (FRIA) Summary
 
-<img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/03001655-4ef1-4ad8-a86a-5080bfc145fc" />
+<img width="1433" height="749" alt="Screenshot 2026-10-07 at 22 10 55" src="https://github.com/user-attachments/assets/64843879-91ce-4902-9868-caab022de973" />
+
+<img width="1433" height="753" alt="Screenshot 2026-10-07 at 19 54 33" src="https://github.com/user-attachments/assets/7dbb433c-b1bc-4485-a6d7-94bd3263f127" />
+
 
 > **Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
 
@@ -167,9 +170,10 @@ My answer:
 
 ### 8. Final Report
 
-[Francois_Arthanas_AI_Governance_Portfolio_Report.pdf](https://github.com/user-attachments/files/28196322/Francois_Arthanas_AI_Governance_Portfolio_Report.pdf)
+[Lanchel Brutus_AI_Governance_Portfolio_Report.pdf](https://drive.google.com/file/d/1bWOIg-VhyH3jcTYMLd1TBZ6FnkDp1ckO/view?usp=drive_link)
 
-<img width="858" height="590" alt="image" src="https://github.com/user-attachments/assets/67c70b59-4f54-43f5-ade8-b6e73cf3780c" />
+<img width="518" height="526" alt="Screenshot 2026-10-07 at 22 14 44" src="https://github.com/user-attachments/assets/0f363ba7-029d-4643-8bc4-e23cf76a3c9b" />
+
 
 > **Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
 
