@@ -1,4 +1,3 @@
-<img width="795" height="536" alt="Screenshot 2026-10-06 at 21 34 34" src="https://github.com/user-attachments/assets/257b0b0f-f395-422f-8706-c6341d3646bd" />
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System - Lanchel Brutus
 
 ## Executive Summary
@@ -77,7 +76,7 @@ My answer:
 
 ### 1. Use Case Registration
 
-<img width="980" height="817" alt="2  Create the New Use Case" src="https://github.com/user-attachments/assets/859be89b-3c21-4694-ab9b-0dbbe16abc34" />
+<img width="795" height="536" alt="Screenshot 2026-10-06 at 21 34 34" src="https://github.com/user-attachments/assets/ad28213d-ee73-4542-9b19-a359d5ae4727" />
 
 
 > **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
