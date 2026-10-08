@@ -67,8 +67,8 @@ My answer:
 | AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](https://drive.google.com/file/d/1OFnb48ICPFKBJw2n1nDjkhsiiTACdSbO/view?usp=drive_link) |
 | Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](https://drive.google.com/file/d/1hSklcI6f6lRfP7UMnL_Sxz6Ry8_m9wLE/view?usp=drive_link) |
 | Third-Party Vendor and Model Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](https://drive.google.com/file/d/1Hk5EtbuCV0B-C5bbELt4rlMAE2UFViZU/view?usp=drive_link) |
-| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](https://docs.google.com/document/d/1n6fIW4xsy8nhBQPPLpI4zdDttjGDRojv0N6MzQdUku8/edit?usp=sharing) |
-| Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](https://drive.google.com/file/d/1eN26gCzbvlTUXNyT1W1nhECPlyotqaj9/view?usp=sharing) |
+| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](https://drive.google.com/file/d/1GgrNmu7R_UXXIZ6zDPKjM7NJyBoKVOJU/view?usp=drive_link) |
+| Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](https://drive.google.com/file/d/1bWOIg-VhyH3jcTYMLd1TBZ6FnkDp1ckO/view?usp=drive_link) |
 
 ---
 
