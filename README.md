@@ -87,7 +87,8 @@ My answer:
 
 ### 2. Model Inventory
 
-<img width="824" height="746" alt="3  Add the Model to Model Inventory " src="https://github.com/user-attachments/assets/f07225c1-6cc8-4cea-bcd0-3c1bfe24ae93" />
+<img width="675" height="655" alt="Screenshot 2026-10-06 at 21 44 25" src="https://github.com/user-attachments/assets/0e8f1775-2034-4f9c-b001-fb4f3a72199f" />
+
 
 > **Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
 
